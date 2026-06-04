@@ -3,7 +3,7 @@
     <v-main>
       <v-container class="py-6 py-md-10">
         <v-app-bar class="glass px-2" rounded="lg" elevation="0" height="72">
-          <v-app-bar-title class="font-weight-bold">Pascal KAMANO</v-app-bar-title>
+          <v-app-bar-title class="font-weight-bold">Faya Pascal KAMANO</v-app-bar-title>
 
           <v-spacer />
 
@@ -26,7 +26,7 @@
                 Disponible pour projets web
               </v-chip>
 
-              <h1 class="text-h2 text-md-h1 font-weight-black mb-6">
+              <h1 class="text-h3 text-md-h1 font-weight-black mb-6">
                 Développeur front-end qui transforme les idées en
                 <span class="text-gradient">interfaces élégantes.</span>
               </h1>
@@ -52,12 +52,12 @@
                 <v-card class="glass portrait-card pa-5" rounded="lg" elevation="0">
                   <div class="d-flex align-center ga-4">
                     <v-avatar color="primary" size="72">
-                      <span class="text-h4 font-weight-bold">PK</span>
+                      <span class="text-h4 font-weight-bold">FPK</span>
                     </v-avatar>
                     <div>
-                      <div class="text-h6 font-weight-bold">Pascal KAMANO</div>
+                      <div class="text-h6 font-weight-bold">Faya Pascal KAMANO</div>
                       <div class="text-body-2 text-medium-emphasis">
-                        Nuxt Developer / UI Designer
+                        Nuxt Developer / UI Designer / Devops Specialist
                       </div>
                     </div>
                   </div>
