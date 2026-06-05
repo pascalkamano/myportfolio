@@ -3,7 +3,7 @@
     <v-main>
       <v-container class="py-6 py-md-10">
         <v-app-bar class="glass px-2" rounded="lg" elevation="0" height="72">
-          <v-app-bar-title class="font-weight-bold">Faya Pascal KAMANO</v-app-bar-title>
+          <v-app-bar-title class="font-weight-bold">Pascal KAMANO</v-app-bar-title>
 
           <v-spacer />
 
@@ -33,7 +33,7 @@
 
               <p class="text-h6 text-medium-emphasis mb-8 section-title">
                 Je conçois des expériences rapides, lisibles et modernes avec Vue, Nuxt,
-                Vuetify et une attention forte au détail produit. Tres sure et promet de livrer un travail de qualité, je suis à la recherche de nouveaux projets pour mettre mes compétences au service d’interfaces web performantes et agréables à utiliser.
+                Vuetify et une attention forte au détail produit. 
               </p>
 
               <div class="d-flex flex-wrap ga-3">
@@ -41,7 +41,7 @@
                   Voir mes projets actuels
                 </v-btn>
                 <v-btn href="#contact" prepend-icon="mdi-coffee" size="large" variant="outlined">
-                  Travaillons ensemble pour votre projet
+                  Travaillons ensemble 
                 </v-btn>
               </div>
             </v-col>
@@ -52,12 +52,12 @@
                 <v-card class="glass portrait-card pa-5" rounded="lg" elevation="0">
                   <div class="d-flex align-center ga-4">
                     <v-avatar color="primary" size="72">
-                      <span class="text-h4 font-weight-bold">FPK</span>
+                      <span class="text-h4 font-weight-bold">PK</span>
                     </v-avatar>
                     <div>
-                      <div class="text-h6 font-weight-bold">Faya Pascal KAMANO</div>
+                      <div class="text-h6 font-weight-bold">Pascal KAMANO</div>
                       <div class="text-body-2 text-medium-emphasis">
-                        Nuxt Developer / UI Designer / Devops Specialist
+                        Nuxt Developer / UI Designer 
                       </div>
                     </div>
                   </div>
