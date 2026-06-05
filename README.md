@@ -9,4 +9,4 @@ npm install
 npm run dev
 ```
 
-Le site sera disponible sur `http://localhost:3000`.
+Le site sera disponible sur `https://myportfoliov2-5w0c.onrender.com`.
