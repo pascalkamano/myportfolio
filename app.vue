@@ -33,15 +33,15 @@
 
               <p class="text-h6 text-medium-emphasis mb-8 section-title">
                 Je conçois des expériences rapides, lisibles et modernes avec Vue, Nuxt,
-                Vuetify et une attention forte au détail produit.
+                Vuetify et une attention forte au détail produit. Tres sure et promet de livrer un travail de qualité, je suis à la recherche de nouveaux projets pour mettre mes compétences au service d’interfaces web performantes et agréables à utiliser.
               </p>
 
               <div class="d-flex flex-wrap ga-3">
                 <v-btn color="primary" href="#projects" prepend-icon="mdi-rocket-launch" size="large">
-                  Voir mes projets
+                  Voir mes projets actuels
                 </v-btn>
                 <v-btn href="#contact" prepend-icon="mdi-coffee" size="large" variant="outlined">
-                  Travaillons ensemble
+                  Travaillons ensemble pour votre projet
                 </v-btn>
               </div>
             </v-col>
